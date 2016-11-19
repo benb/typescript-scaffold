@@ -1,5 +1,5 @@
 {
-  "name": "@readcube/scaffold",
+  "name": "scaffold",
   "version": "0.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -17,7 +17,7 @@
     "node": ">=6.9.0"
   },
   "author": "Ben Blackburne",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "devDependencies": {
     "@types/fs-extra-promise": "0.0.30",
     "@types/temp": "^0.8.29",
